@@ -12,7 +12,7 @@ def second_challenge
       :patriarch =>{},
       :matriarch =>{},
       :heroine =>{},
-      :heroine_
+      :heroine_friends =>[]
       #your key/value pairs here!
       }}
 
